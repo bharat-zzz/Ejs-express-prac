@@ -1,0 +1,34 @@
+
+####################
+(1)
+####################
+
+Learn to build api routing using expressjs, and templating using ejs.
+
+ejs page 1: Create a form that takes in some personal particulars and post to the server.
+ejs page 2: Server returns this template that shows what was posted in (1)
+
+Shouldn’t take more than 2 hours including learning. Two ejs templates and one server script
+
+
+
+#####################
+(2)
+#####################
+Use AJAX on page 1 to post and change the html using front end javascript into page 2
+This will teach you the two methods of communicating with a server. Synchronous and asynchronous
+
+
+#####################
+(3)
+#####################
+After that @Sean challenge bharat to login stockx and explain how to do auto procurement. 
+Then guide him to get the answer
+
+
+#####################
+(4)
+#####################
+once done, push code to github and share. 
+then deploy it on a server (use the ubuntu). 
+@Sean since got access to ubuntu, open a random port to the public (e.g. 5000) and we can access from there
